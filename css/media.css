@@ -1,0 +1,39 @@
+@media (max-width: 991px) {
+  .navBar .navMax .Links {
+    display: none;
+  }
+
+  .navBar .navMax i {
+    display: inline-block;
+  }
+
+  .Weather .inputShape {
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 25px;
+  }
+
+  .Weather .weatherCards {
+    flex-direction: column;
+  }
+  .Weather .weatherCards > div {
+    width: 100%;
+  }
+
+  footer .row .inputShape {
+    flex-direction: column;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  footer .row .inputShape input {
+    width: 100%;
+  }
+
+  footer .row {
+    flex-direction: column;
+  }
+
+  .Weather .weatherCards .card_1 .info .Degree {
+    font-size: 60px;
+  }
+}
