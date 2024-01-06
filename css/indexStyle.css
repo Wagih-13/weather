@@ -144,7 +144,7 @@ body {
   padding-top: 40px;
   padding-bottom: 40px;
   background-color: var(--nav-color);
-  background-image: url(/images/banner.png);
+  background-image: url(/weather/images/banner.png);
   background-repeat: no-repeat;
 }
 
